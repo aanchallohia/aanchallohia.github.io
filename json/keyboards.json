@@ -1,0 +1,31 @@
+{  
+   "keyboards":[  
+      {  
+         "name":"adfv",
+         "stock":"In Stock",
+         "price":200,
+         "info":"asdf",
+         "shippedBy":"asdf",
+         "imageURL":"./img/keyboards/abc.png",
+         "images":["./img/elixir1.png","./img/keyboards/abc2.png"]
+      },
+      {  
+         "name":"sffdg",
+         "stock":"In Stock",
+         "price":200,
+         "info":"adf",
+         "shippedBy":"asdf",
+         "imageURL":"img/keyboards/abc.png",
+         "images":["./img/keyboards/abc1.png","./img/keyboards/abc2.png"]
+      },
+       {  
+         "name":"sffdg",
+         "stock":"In Stock",
+         "price":200,
+         "info":"adf",
+         "shippedBy":"asdf",
+         "imageURL":"./img/keyboards/abc.png",
+         "images":["./img/keyboards/abc1.png","./img/keyboards/abc2.png"]
+      }
+   ]
+}
